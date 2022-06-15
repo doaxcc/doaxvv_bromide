@@ -8,5 +8,5 @@
 ```
 ## 下载 / downlod
 ```
-<a href='https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip'>https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip</a>
+[https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip](https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip)
 ```
