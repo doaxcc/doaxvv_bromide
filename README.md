@@ -7,4 +7,4 @@
 3.不要暴力催更，收集和处理都是需要时间的。
 ```
 ## 下载 / downlod
-[https://github.com/doaxcc/doaxvv_bromide/archive/refs/tags/Misaki.zip](https://github.com/doaxcc/doaxvv_bromide/archive/refs/tags/Misaki.zip "https://github.com/doaxcc/doaxvv_bromide/archive/refs/tags/Misaki.zip")
+[https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip](https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip "https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip")
