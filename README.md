@@ -8,3 +8,7 @@
 ```
 ## 下载 / downlod
 [https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip](https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip "https://github.com/doaxcc/doaxvv_bromide/archive/refs/heads/main.zip")
+
+国内网络 直接网页下载可能会出现下载提前中止的情况。
+推荐使用各类git客户端pull项目的方式获取，
+大约4.6GB
